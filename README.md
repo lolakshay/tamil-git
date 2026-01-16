@@ -2,7 +2,7 @@
 
 A beginner-friendly **open-source Git automation project** built especially for **Tamil students** learning Git, open source, and command-line tools.
 
-This project simplifies Git usage by converting multiple Git commands into **one simple Tamil-style command**.
+This project simplifies Git usage by converting multiple Git commands into **one simple Tamil-style command**
 
 > 💡 Learn Git without fear  
 > 💡 Automate repetitive work  
