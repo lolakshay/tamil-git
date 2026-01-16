@@ -1,5 +1,5 @@
 @echo off
-echo Deploying... wait lolakshay
+echo Deploying... wait lol
 
 git add .
 git commit -m "%*"
