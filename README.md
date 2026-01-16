@@ -53,14 +53,6 @@ Now that it is installed, go to a new folder where you want to write code and ty
 MIT License
 Free to use, modify, and share.
 
-👤 Author
-
-**Lolakshay**  
-Computer Science Student  
-Open Source & Automation Enthusiast  
-
-- GitHub: https://github.com/lolakshay  
-- LinkedIn: https://www.linkedin.com/in/akshay-srinivas
 
 ❤️ Acknowledgement
 Built with ❤️ for the Tamil student community.
